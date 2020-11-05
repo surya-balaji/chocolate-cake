@@ -1,0 +1,1 @@
+Are you craving a chocolate cake? if so, this recipe will guide you on how to make the most delicious chocolate cake. Ingredients are available in ingredients.md, and the recipe is available in recipe.md. Just follow the recipe and make sure you have all the ingredients, then you will be fine. 
